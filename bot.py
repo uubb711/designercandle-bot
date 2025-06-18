@@ -15,18 +15,18 @@ company_info = (
 
 # Products and Services
 products_services = (
-    "🕯️ Soy Candles: Natural wax, various scents.
+    "🕯️ Soy Candles: Natural wax, various scents."
 "
-    "🎁 Custom Candle Design: Personalized shapes & labels.
+    "🎁 Custom Candle Design: Personalized shapes & labels."
 "
     "📦 Gift Sets: Elegant packages for any occasion."
 )
 
 # FAQ
 faq = (
-    "❓ What candles do you offer? We make soy candles, custom designs, and gift sets.
+    "❓ What candles do you offer? We make soy candles, custom designs, and gift sets."
 "
-    "🛒 How to order? Just send us a message with your preferred product.
+    "🛒 How to order? Just send us a message with your preferred product."
 "
     "🚚 Do you deliver? Yes! We offer local delivery and shipping."
 )
