@@ -25,9 +25,9 @@ products_services = (
 # FAQ
 faq = (
     "❓ What candles do you offer? We make soy candles, custom designs, and gift sets."
-"
+
     "🛒 How to order? Just send us a message with your preferred product."
-"
+
     "🚚 Do you deliver? Yes! We offer local delivery and shipping."
 )
 
